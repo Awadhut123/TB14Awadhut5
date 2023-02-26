@@ -6,6 +6,7 @@ public class DemoGitHub
 	public void m2()
 	{
 		System.out.println("m2--A");
+		System.out.println("kkkkk");
 	}
 	public void m3()
 	{
